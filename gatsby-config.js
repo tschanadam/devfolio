@@ -12,8 +12,6 @@ module.exports = {
     author: `@kattschan`,
     // Optional: Github account URL
     github: `https://github.com/kattschan`,
-    // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
     about: `I make code in my spare time. Student and programmer. She/her 🏳️‍⚧️`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
