@@ -23,11 +23,15 @@ module.exports = {
         link: 'https://github.com/tschanadam/daily-ballot-repo',
       },
       {
-        name: 'My Email',
+        name: 'Cryptoclickerz',
         description:
-          'Feel free to send a message to this project :)',
-        link: 'mailto:kat@wobbuffet.xyz',
+          'Unfinished cookie clicker clone, but with actaul crypto. Visual developer.'
       },
+      {
+        name: 'Neoncraft',
+        description: 'Original developer and setup girl on Neoncraft.',
+        link: 'https://neoncraft.org'
+        },
     ],
     
     // Optional: List your skills, they must have `name` and `description`.
@@ -44,7 +48,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Azure, AWS, Heroku, Netlify, Google Cloud',
+          'Azure, AWS, Heroku, Netlify, Google Cloud, Minecraft Servers for Bedrock and Java',
       },
     ],
   },
